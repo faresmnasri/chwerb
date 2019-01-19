@@ -320,7 +320,7 @@ client.on('message', msg => {
 
 client.on('message', msg => {
     if (msg.content === 'aa') {
-      msg.reply('na9es mel klem el zeyed yar7em bouk');
+      msg.reply('3saa');
     }
 }); 
 
@@ -1420,5 +1420,29 @@ client.on('message', msg => {
 }); 
 
 
+client.on('message', msg => {
+    if (msg.content === 'barra nayk') {
+      msg.reply('na9es mel klem zeyed yar7em bouk');
+    }
+}); 
+
+client.on('message', msg => {
+    if (msg.content === 'barra nayek') {
+      msg.reply('na9es mel klem zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'bara nayk') {
+      msg.reply('na9es mel klem zeyed yar7em bouk');
+    }
+}); 
+
+client.on('message', msg => {
+    if (msg.content === 'bara nayek') {
+      msg.reply('na9es mel klem zeyed yar7em bouk');
+    }
+}); 
 
 client.login(process.env.BOT_TOKEN);
