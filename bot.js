@@ -5,7 +5,7 @@ const ms = require("ms");
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
-  client.user.setGame(`سوق الأحد`,"http://twitch.tv/S-F")
+  client.user.setGame(`This server is protected`,"http://twitch.tv/S-F")
     console.log('')
     console.log('')
     console.log('╔[═════════════════════════════════════════════════════════════════]╗')
