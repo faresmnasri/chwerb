@@ -5,7 +5,7 @@ const ms = require("ms");
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
-  client.user.setGame(`This server is protected`,"http://twitch.tv/S-F")
+  client.user.setGame(``,"http://twitch.tv/S-F")
     console.log('')
     console.log('')
     console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -1444,5 +1444,415 @@ client.on('message', msg => {
       msg.reply('na9es mel klem zeyed yar7em bouk');
     }
 }); 
+
+
+
+client.on('message', msg => {
+    if (msg.content === 'a') {
+      msg.reply('3saa');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'aaa') {
+      msg.reply('3saa');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'aaaa') {
+      msg.reply('3saa');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'aaaaa') {
+      msg.reply('3saa');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'aaaaaa') {
+      msg.reply('3saa');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'aaaaaaa') {
+      msg.reply('3saa');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'shbik ?') {
+      msg.reply('shbik ???');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'chbik ?') {
+      msg.reply('chbik ???');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'shbyk ?') {
+      msg.reply('shbyk ???');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'chbik?') {
+      msg.reply('chbik ???');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'chbik ??') {
+      msg.reply('chbik ????');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'shbik ??') {
+      msg.reply('shbik ???');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'nayik') {
+      msg.reply('na9es mel klem zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'bara 3asba') {
+      msg.reply('na9es mel klem zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'barra 3asba') {
+      msg.reply('na9es mel klem zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'bara 3assba') {
+      msg.reply('na9es mel klem zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'barra 3assba') {
+      msg.reply('na9es mel klem zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'Haha') {
+      msg.reply('ech idha7ek fik ?');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'Hahaha') {
+      msg.reply('ech idha7ek fik ?');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'ija') {
+      msg.reply('w ena nji wal� ???');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'ijaa') {
+      msg.reply('w ena nji wal� ???');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'bnui') {
+      msg.reply('3ala 5ir');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'bn8') {
+      msg.reply('3ala 5ir');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'aya bnui') {
+      msg.reply('3ala 5ir');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'aya bn8') {
+      msg.reply('3ala 5ir');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'move') {
+      msg.reply('att aw besh nmovik');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'tet9ou7eb') {
+      msg.reply('na9es mel klem el zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'tit9ou7eb') {
+      msg.reply('na9es mel klem el zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'tet9ouheb') {
+      msg.reply('na9es mel klem el zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'tet9ou7eb ?') {
+      msg.reply('na9es mel klem el zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'tet9ou7eb ??') {
+      msg.reply('na9es mel klem el zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'tet9ouheb ??') {
+      msg.reply('na9es mel klem el zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'tet9ouheb ?') {
+      msg.reply('na9es mel klem el zeyed yar7em bouk');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'hhhhhhhh') {
+      msg.reply('ech idha7ek fik ?');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'hello') {
+      msg.reply('hi');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'hi') {
+      msg.reply('hello');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'admin') {
+      msg.reply('???');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'kifeh') {
+      msg.reply('kima jet jet');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'kifesh') {
+      msg.reply('kima jet jet');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'kifsh') {
+      msg.reply('kima jet jet');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'hani jey') {
+      msg.reply('ok');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'chbik bhim') {
+      msg.reply('shkoun bhim ?');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'shbik bhim') {
+      msg.reply('shkoun bhim ?');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'shbik bhim ?') {
+      msg.reply('shkoun bhim ?');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'chbik bhim ?') {
+      msg.reply('shkoun bhim ?');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '@eXa') {
+      msg.reply('tfadhel ?');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === 'eXa') {
+      msg.reply('oui ?');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '?') {
+      msg.reply('??');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '??') {
+      msg.reply('???');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '???') {
+      msg.reply('????');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '????') {
+      msg.reply('?????');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '?????') {
+      msg.reply('??????');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '??????') {
+      msg.reply('???????');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '???????') {
+      msg.reply('????????');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '????????') {
+      msg.reply('??????????');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '-_-') {
+      msg.reply(':p');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '-__-') {
+      msg.reply(':pp');
+    }
+}); 
+
+
+client.on('message', msg => {
+    if (msg.content === '?????') {
+      msg.reply('chbik ??');
+    }
+}); 
+
+
+
 
 client.login(process.env.BOT_TOKEN);
