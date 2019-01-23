@@ -1582,7 +1582,7 @@ client.on('message', msg => {
 
 client.on('message', msg => {
     if (msg.content === 'ija') {
-      msg.reply('w ena nji wala ???');
+      msg.reply('w ena nji walé ???');
     }
 }); 
 
