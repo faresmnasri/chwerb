@@ -509,7 +509,7 @@ client.on('message', msg => {
 
 client.on('message', msg => {
     if (msg.content === 'sou9') {
-      msg.reply('ena no7kom fel rbat lahn�');
+      msg.reply('ena no7kom fel rbat lahna');
     }
 }); 
 
@@ -1582,14 +1582,14 @@ client.on('message', msg => {
 
 client.on('message', msg => {
     if (msg.content === 'ija') {
-      msg.reply('w ena nji wal� ???');
+      msg.reply('w ena nji wala ???');
     }
 }); 
 
 
 client.on('message', msg => {
     if (msg.content === 'ijaa') {
-      msg.reply('w ena nji wal� ???');
+      msg.reply('w ena nji wala ???');
     }
 }); 
 
