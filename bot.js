@@ -59,32 +59,7 @@ client.on('message', msg => {
 }); 
 
 
-client.on('message', msg => {
-    if (msg.content === 'amricani') {
-      msg.reply('wa');
-    }
-}); 
 
-
-client.on('message', msg => {
-    if (msg.content === 'amricni') {
-      msg.reply('wa');
-    }
-}); 
-
-
-client.on('message', msg => {
-    if (msg.content === 'amrikeni') {
-      msg.reply('wa');
-    }
-}); 
-
-
-client.on('message', msg => {
-    if (msg.content === 'amrikani') {
-      msg.reply('wa');
-    }
-}); 
 
 
 client.on('message', msg => {
@@ -95,8 +70,8 @@ client.on('message', msg => {
 
 
 client.on('message', msg => {
-    if (msg.content === 'mnadhem') {
-      msg.reply('Mnadhem?? eddawla edheka');
+    if (msg.content === 'delmore') {
+      msg.reply('huum ?');
     }
 }); 
 
